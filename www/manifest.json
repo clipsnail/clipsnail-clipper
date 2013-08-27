@@ -10,7 +10,7 @@
             "128": "icon@8x.png" },
 
   "permissions": [
-    "*"
+    "*://*/*"
   ],
   
   "background": {
